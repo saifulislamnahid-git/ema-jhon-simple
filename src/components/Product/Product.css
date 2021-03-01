@@ -9,3 +9,10 @@
     color: #0000FF;
     font-weight: 400;
 }
+.main-button{
+    background-color: #F0C14B;
+    width: 150px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
